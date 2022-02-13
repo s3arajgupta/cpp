@@ -1,0 +1,6 @@
+Crtl p
+@ || Ctrl shift .
+Ctrl D
+Alt + Click
+Alt + Arrow to move line horizontally
+Alt Shift Arrow to duplicate
